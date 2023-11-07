@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Play X-O-X</string>
+    <string name="image">image</string>
+    <string name="tap_to_play">Tap to play</string>
+</resources>
